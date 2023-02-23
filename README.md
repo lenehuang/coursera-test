@@ -3,7 +3,7 @@ Coursera test repository
 <!DOCTYPE html>
 <html>
   <head>
-    <title>lenehuang.github.io</title>
+    <title>lenehuang.github</title>
   </head>
   <body>
     <h1>Hello World</h1>
